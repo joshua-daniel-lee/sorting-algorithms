@@ -1,0 +1,19 @@
+{
+  "name": "sorting-algorithms",
+  "version": "1.0.0",
+  "description": "Implementing Sorting Algorithms",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha -R spec --bail --watch"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joshualeehawaii/sorting-algorithms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joshualeehawaii/sorting-algorithms/issues"
+  },
+  "homepage": "https://github.com/joshualeehawaii/sorting-algorithms#readme"
+}
