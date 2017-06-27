@@ -1,4 +1,4 @@
-console.log('sanity check quick');
+//console.log('sanity check quick');
 
 function quickSort(numbers){
   if (numbers.length < 2){
