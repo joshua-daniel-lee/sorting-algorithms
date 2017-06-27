@@ -56,7 +56,7 @@ Insertion sort
 
 * Worst - O(n^2)
 
-3.
+3. Psedo Code:
 ```for i = 1 to n - 1
       element = array[i]
       j = i
