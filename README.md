@@ -21,6 +21,8 @@ Merge sort
 
 * Worst - O(n log(n))
 
+3. `this is code`
+
 Insertion sort
 ---
 
