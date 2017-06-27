@@ -10,8 +10,8 @@ function swap(numbers, i, j){
 function selectionSort(numbers){
   for (var i = 0; i < numbers.length; i++){
     var min = i;
-    console.log('this is min =', min);
-    for (var j = 1; j < numbers.length; j++){
+    //console.log('this is min =', min);
+    for (var j = i; j < numbers.length; j++){
       if(numbers[j] < numbers[min]){
         min = j;
       }
